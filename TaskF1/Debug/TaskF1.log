@@ -1,0 +1,24 @@
+﻿  cApp.cpp
+  cMain.cpp
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(40,24): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(49,23): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(88,24): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(97,24): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(109,44): warning C4018: '<=': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(110,45): warning C4018: '<=': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(131,43): warning C4018: '<=': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(132,44): warning C4018: '<=': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(182,23): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(202,29): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(207,25): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(215,25): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(223,24): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(259,23): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(262,23): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(265,24): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(273,24): warning C4018: '<': signed/unsigned mismatch
+D:\Storage\CProjects\TaskF\TaskF1\TaskF1\cMain.cpp(283,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  TaskF1.vcxproj -> D:\Storage\CProjects\TaskF\TaskF1\Debug\TaskF1.exe
